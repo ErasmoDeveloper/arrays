@@ -1,4 +1,3 @@
-package br.com.impacta.arrays;
 
 import javax.swing.*;
 

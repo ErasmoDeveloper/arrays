@@ -1,4 +1,3 @@
-package br.com.impacta.arrays;
 
 public class Array02 {
     public static void main(String[] args) {
